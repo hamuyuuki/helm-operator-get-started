@@ -1,0 +1,1 @@
+{"jobID":"fec81b22-96e1-8974-767f-d4e28cf9eb0f","spec":{"type":"policy","cause":{"Message":"","User":"Yuki Ito \u003cyuki.ito@pixta.co.jp\u003e"},"spec":{"default:helmrelease/podinfo-dev":{"add":null,"remove":{"automated":"true"}}}},"result":null}
