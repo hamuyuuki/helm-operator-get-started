@@ -1,0 +1,1 @@
+{"jobID":"361bd691-8f5d-147d-6550-6b55fcd59a5d","spec":{"type":"policy","cause":{"Message":"","User":"Yuki Ito \u003cyuki.ito@pixta.co.jp\u003e"},"spec":{"default:deployment/nginx-deployment":{"add":null,"remove":{"automated":"true"}}}},"result":null}
